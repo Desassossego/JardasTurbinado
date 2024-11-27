@@ -7,6 +7,7 @@ from responses import German
 from responses import Latin
 from responses import French
 from responses import Piropos
+from responses import Communism
 from database import DBquery
 
 from utils.stopfile import validate_word
@@ -30,6 +31,10 @@ async def handle_responses(message: Message, intensity):
         
         # Check if Caro
         elif (str(message.author) == "carosaf") and await french_reply(message):
+            return
+
+           # Check if JECS
+        elif (str(message.author) == "jecs21") and await communism_reply(message):
             return
 
         # Check if Rebola is Conas
@@ -67,6 +72,15 @@ async def latin_reply(message: Message):
     roll = random.randint(1, 10)
     if roll == 1:
         response = random.choice(Latin.arr_latin)
+        await message.channel.send(response)
+        return True
+    return False
+
+######################################################
+async def communism_reply(message: Message):
+    roll = random.randint(1, 10)
+    if roll == 1:
+        response = random.choice(Communism.arr_communism)
         await message.channel.send(response)
         return True
     return False
