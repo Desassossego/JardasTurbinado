@@ -18,5 +18,17 @@ arr_german = [
     "Schwester",
     "Lass uns Tripa gehen",
     "Lass uns Emo-Musik hören",
+    "Lucy und Mia sind die besten Katzen",
+    "Ich glaub mein Schwein pfeift",
+    "Das ist mir Wurst",
+    "Alles in Butter",
+    "Einen Vogel haben",
+    "Das Leben ist kein Ponyhof",
+    "Schönen Feierabend",
+    "Hast Du Bock?",
+    "Voll Geil",
+    "Heil, Chancellora",
+    "Ich tu dir weh",
+    "Schauen wir uns Game of Thrones an",
     
 ]
