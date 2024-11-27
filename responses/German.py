@@ -9,4 +9,14 @@ arr_german = [
     "Ich, deine Mutter",
     "Das war's und hör auf, dumm zu sein",
     "90 Tage Verlobte heute?",
+    "Bulbasaur ist das beste Pokémon",
+    "Deine Locken sind heute sehr schön",
+    "Englisch ist mein Lieblingsfach, Lieblingsfach, Lieblingsfach",
+    "Bratwurst",
+    "Sehr gut, Mamma",
+    "Kann ich meine Pommes in Ihren McFlurry dippen?",
+    "Schwester",
+    "Lass uns Tripa gehen",
+    "Lass uns Emo-Musik hören",
+    
 ]
