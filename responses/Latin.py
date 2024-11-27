@@ -1,5 +1,5 @@
 arr_latin = [
-    "Carpe diem",
+    "Carpe diem quam minimum credula postero",
     "Tua mater latior quam Rubicon est",
     "Quid quid latine dictum sit, altum videtur",
     "In vino veritas",
