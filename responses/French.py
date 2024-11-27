@@ -19,6 +19,18 @@ arr_french = [
     "Je vois la vie en rose",
     "Je te laisserai des mots",
     "Merde",
+    "Je t'aime",
+    "C'est la vie",
+    "Casse toi",
+    "Puis-je vous offrir un verre?”,
+    "J’ai eu un coup de foudre",
+    "Sans toi, je ne suis rien",
+    "Je m'en fous",
+    "C'est dommage",
+    "Je ne sais pas",
+    "Mettre les couilles sur la table",
+    "C'est comme pisser dans un violon",
+    
     
 ]
 
