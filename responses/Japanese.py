@@ -5,6 +5,6 @@ arr_japanese = [
     "Ā, akogare no pokemon masutā ni",
     "Konnichiwa",
     "Sayōnara",
-
+    "Duolingo no jikan",
     
 ]
