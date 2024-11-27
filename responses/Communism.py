@@ -10,10 +10,10 @@ arr_communism = [
     "Tu, eu, e a conquista dos meios de produção?",
     "Proletários de todos os países, uni-vos!",
     "Tá calado, comuna",
-    "Stalin matou foi pouco"
-    "Vai plantar batatas, seu comuna"
-    "Agora não, camarada"
-    "Malditos comunas"
-    "Alerta comuna"
+    "Stalin matou foi pouco",
+    "Vai plantar batatas, seu comuna",
+    "Agora não, camarada",
+    "Malditos comunas",
+    "Alerta comuna",
     
 ]
